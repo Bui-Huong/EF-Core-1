@@ -1,0 +1,62 @@
+E:\rookies\EF Core 1\bin\Debug\net6.0\appsettings.Development.json
+E:\rookies\EF Core 1\bin\Debug\net6.0\appsettings.json
+E:\rookies\EF Core 1\bin\Debug\net6.0\EF Core 1.exe
+E:\rookies\EF Core 1\bin\Debug\net6.0\EF Core 1.deps.json
+E:\rookies\EF Core 1\bin\Debug\net6.0\EF Core 1.runtimeconfig.json
+E:\rookies\EF Core 1\bin\Debug\net6.0\EF Core 1.dll
+E:\rookies\EF Core 1\bin\Debug\net6.0\EF Core 1.pdb
+E:\rookies\EF Core 1\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\rookies\EF Core 1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\rookies\EF Core 1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\rookies\EF Core 1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.InMemory.dll
+E:\rookies\EF Core 1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\rookies\EF Core 1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\rookies\EF Core 1\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\rookies\EF Core 1\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\rookies\EF Core 1\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\rookies\EF Core 1\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\rookies\EF Core 1\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\rookies\EF Core 1\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\rookies\EF Core 1\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\rookies\EF Core 1\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\rookies\EF Core 1\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\rookies\EF Core 1\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\rookies\EF Core 1\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\rookies\EF Core 1\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\rookies\EF Core 1\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\rookies\EF Core 1\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\rookies\EF Core 1\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\rookies\EF Core 1\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\rookies\EF Core 1\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\rookies\EF Core 1\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\rookies\EF Core 1\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\rookies\EF Core 1\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\rookies\EF Core 1\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\rookies\EF Core 1\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\rookies\EF Core 1\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\rookies\EF Core 1\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\rookies\EF Core 1\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\rookies\EF Core 1\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\rookies\EF Core 1\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\rookies\EF Core 1\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\rookies\EF Core 1\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\rookies\EF Core 1\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\rookies\EF Core 1\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\rookies\EF Core 1\obj\Debug\net6.0\EF Core 1.csproj.AssemblyReference.cache
+E:\rookies\EF Core 1\obj\Debug\net6.0\EF Core 1.GeneratedMSBuildEditorConfig.editorconfig
+E:\rookies\EF Core 1\obj\Debug\net6.0\EF Core 1.AssemblyInfoInputs.cache
+E:\rookies\EF Core 1\obj\Debug\net6.0\EF Core 1.AssemblyInfo.cs
+E:\rookies\EF Core 1\obj\Debug\net6.0\EF Core 1.csproj.CoreCompileInputs.cache
+E:\rookies\EF Core 1\obj\Debug\net6.0\EF Core 1.MvcApplicationPartsAssemblyInfo.cs
+E:\rookies\EF Core 1\obj\Debug\net6.0\EF Core 1.MvcApplicationPartsAssemblyInfo.cache
+E:\rookies\EF Core 1\obj\Debug\net6.0\staticwebassets.build.json
+E:\rookies\EF Core 1\obj\Debug\net6.0\staticwebassets.development.json
+E:\rookies\EF Core 1\obj\Debug\net6.0\scopedcss\bundle\EF Core 1.styles.css
+E:\rookies\EF Core 1\obj\Debug\net6.0\EF Core 1.csproj.CopyComplete
+E:\rookies\EF Core 1\obj\Debug\net6.0\EF Core 1.dll
+E:\rookies\EF Core 1\obj\Debug\net6.0\refint\EF Core 1.dll
+E:\rookies\EF Core 1\obj\Debug\net6.0\EF Core 1.pdb
+E:\rookies\EF Core 1\obj\Debug\net6.0\EF Core 1.genruntimeconfig.cache
+E:\rookies\EF Core 1\obj\Debug\net6.0\ref\EF Core 1.dll
+E:\rookies\EF Core 1\bin\Debug\net6.0\Humanizer.dll
+E:\rookies\EF Core 1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
