@@ -1,4 +1,3 @@
-
 namespace EF_Core_1.DTO
 {
     public class StudentDTO
